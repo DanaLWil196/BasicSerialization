@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>123</ID>
+  <Name>Dana</Name>
+  <SSNumber>123456789</SSNumber>
+  <EntryDate>2020-10-29T10:18:20.661587-04:00</EntryDate>
+</Employee>

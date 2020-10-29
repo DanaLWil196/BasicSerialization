@@ -20,8 +20,8 @@ namespace BasicSerialization
             emp.EntryDate = DateTime.Now;
             Console.WriteLine($"Employee ID: {emp.ID} \nEmployee Nme: {emp.Name}\nEmployee SS#: {emp.SSNumber}\nDate Created: {emp.EntryDate}");
 
-            string FilePath = "C:/Temp/";
-            string FileName = "Dana.xml";
+            string FilePath = "C:/Users/Wilson_dana/source/repos/BasicSerialization";
+            string FileName = "Ninja.xml";
             TextWriter writer = new StreamWriter(FilePath + FileName);
 
             XmlSerializer ser = new XmlSerializer(typeof(Employee));

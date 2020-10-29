@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<New_x0020_Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Employee_x0020_ID="123" xmlns="www.nerdinc.ninja">
+  <Full_x0020_Name>Dana</Full_x0020_Name>
+  <Social_x0020_Security_x0020_Number>123456789</Social_x0020_Security_x0020_Number>
+  <Today_x0027_s_x0020_Date>2020-10-29T10:44:01.0582591-04:00</Today_x0027_s_x0020_Date>
+</New_x0020_Employees>
